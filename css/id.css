@@ -1,0 +1,10 @@
+#content {
+    gap: 1%
+}
+
+#glossary {
+    margin: 0 80% 0 0%;
+    position: fixed;
+    height: fit-content;
+    background-color: orange;
+}

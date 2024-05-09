@@ -1,0 +1,40 @@
+h1 {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+aside {
+    background-color: aquamarine;
+}
+
+article {
+    background-color: aqua;
+    margin-left: 22%;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+li {
+    display: list-item;
+    list-style-position: inside;
+}
+
+ul {
+    padding: 0 0 0 3%;
+    list-style-type: disc;
+}
+
+main {
+    margin-top: 5%;
+    font-size: xx-large;
+}
+
+body {
+    font-size: xx-large;
+}
+
+html {
+    scroll-behavior: smooth;
+}
